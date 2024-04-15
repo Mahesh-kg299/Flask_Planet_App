@@ -1,0 +1,23 @@
+body {
+    background-color:  #e0ffff;
+}
+
+.heading {
+    background-image:  url('/static/images/planet_banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24rem;
+}
+
+.navbar {
+    background-color: #002244;
+}
+
+table, form {
+    background-color: white;
+}
+
+.action-btn {
+    font-size: 0.75rem;
+    border-radius: 0.15rem;
+}
